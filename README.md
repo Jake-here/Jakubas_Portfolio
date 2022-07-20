@@ -1,7 +1,7 @@
 # Jakubas_Portfolio
 Examples of My Analytical Projects
 
-# Project 1. Wish Platform Rating Analysis
+# [Project 1. Wish Platform Rating Analysis](https://github.com/Jake-here/Wish_Platform_Rating_Analysis)
 
 ##  Overview
 * Dataset with information on products listed on e-commerce platform WISH.
