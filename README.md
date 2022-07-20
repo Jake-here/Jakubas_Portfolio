@@ -20,7 +20,7 @@ Examples of My Analytical Projects
 ## Project overview on YouTube
 - [YouTube link] (https://youtu.be/reXcIHse8j8)
 
-# Project 2. Analysing SAKILA database with MySQL
+# [Project 2. Analysing SAKILA database with MySQL](https://github.com/Jake-here/SQL-Tasks)
 
 ##  Overview
 * This was a final test for MySQL course
