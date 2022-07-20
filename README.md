@@ -25,7 +25,7 @@ Examples of My Analytical Projects
 ##  Overview
 * This was a final test for MySQL course
 * Performed different queries and subqueries, including:
-1. returning data, 
+1. returning data 
 2. data filtering 
 3. different table joins
 4. creating new tables
