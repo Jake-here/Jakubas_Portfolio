@@ -15,10 +15,10 @@ Examples of My Analytical Projects
 ## Code and Resources Used
 - **Python (Jupyter Notebooks)**
 - **Packages:** pandas, numpy, seaborn, matplotlib, sklearn, statsmodels
-- **[Dataset link]** (https://www.kaggle.com/datasets/jmmvutu/summer-products-and-sales-in-ecommerce-wish)
+- [Dataset link] (https://www.kaggle.com/datasets/jmmvutu/summer-products-and-sales-in-ecommerce-wish)
 
 ## Project overview on YouTube
-- **[YouTube link]** (https://youtu.be/reXcIHse8j8)
+- [YouTube link] (https://youtu.be/reXcIHse8j8)
 
 # Project 2. Analysing SAKILA database with MySQL
 
