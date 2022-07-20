@@ -4,6 +4,7 @@ Examples of My Analytical Projects
 # Project 1. Wish Platform Rating Analysis
 ##  Overview
 * Dataset with information on products listed on e-commerce platform WISH.
+* Main purpose: Find out what factors influence rating of a product
 * Cleaned through unnecessary data
 * Exploratory Data Analysis
 * Generated 2 Models showing variables that influence Product Rating using Multiple Linear Regression 
