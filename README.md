@@ -23,7 +23,7 @@ Examples of My Analytical Projects
 # [Project 2. Analysing SAKILA database with MySQL](https://github.com/Jake-here/SQL-Tasks)
 
 ##  Overview
-* This was a final test for MySQL course
+* This was a final task for MySQL course
 * Performed different queries and subqueries, including:
 1. returning data 
 2. data filtering 
